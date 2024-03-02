@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of janzen.sasha from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="The Baffler" title="The Baffler" type="rss" xmlUrl="http://www.thebaffler.com/feed" htmlUrl="http://www.thebaffler.com/"/>
+    <outline text="In These Times" title="In These Times" type="rss" xmlUrl="http://inthesetimes.com/rss" htmlUrl="http://inthesetimes.com/"/>
+    <outline text="UNICORN RIOT" title="UNICORN RIOT" type="rss" xmlUrl="https://unicornriot.ninja/feed/" htmlUrl="https://unicornriot.ninja/"/>
+    <outline text="" title="" type="rss" xmlUrl="https://www.labornotes.org/feed" htmlUrl="https://www.labornotes.org/feed"/>
+    <outline text="" title="" type="rss" xmlUrl="https://organizing.work/feed/" htmlUrl="https://organizing.work/"/>
+    <outline text="CCTV News" title="CCTV News" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgrNz-aDmcr2uuto8_DL2jg" htmlUrl="http://www.youtube.com/user/CCTVNEWSbeijing"/>
+    <outline text="Cosmonaut" title="Cosmonaut" type="rss" xmlUrl="https://cosmonautmag.com/rss" htmlUrl="https://cosmonautmag.com/"/>
+    <outline text="Prensa Latina" title="Prensa Latina" type="rss" xmlUrl="https://www.plenglish.com/feed?rss" htmlUrl="https://www.plenglish.com/"/>
+    <outline text="Geopolitical Economy Report" title="Geopolitical Economy Report" type="rss" xmlUrl="https://geopoliticaleconomy.com/rss" htmlUrl="https://geopoliticaleconomy.com/"/>
+    <outline text="Kawsachun News" title="Kawsachun News" type="rss" xmlUrl="https://kawsachunnews.com/rss" htmlUrl="https://kawsachunnews.com/"/>
+    <outline text="Sixth Tone RSS" title="Sixth Tone RSS" type="rss" xmlUrl="https://api.sixthtone.com/cont/output/rssApi" htmlUrl="https://www.sixthtone.com/"/>
+    <outline text="The Electronic Intifada" title="The Electronic Intifada" type="rss" xmlUrl="https://electronicintifada.net/rss.xml" htmlUrl="https://electronicintifada.net/frontpage"/>
+    <outline text="环球时报 Global Times" title="环球时报 Global Times" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO9SfFMUHEeMXt1EKIcN1oA" htmlUrl="https://www.youtube.com/channel/UCO9SfFMUHEeMXt1EKIcN1oA"/>
+    <outline text="International Views" title="International Views" type="rss" xmlUrl="https://internationalviews.org/feed" htmlUrl="https://internationalviews.org/"/>
+    <outline text="Red Sails" title="Red Sails" type="rss" xmlUrl="https://redsails.org/rss.xml" htmlUrl="https://redsails.org/"/>
+    <outline text="MintPress News" title="MintPress News" type="rss" xmlUrl="http://www.mintpressnews.com/feed/" htmlUrl="http://www.mintpressnews.com/"/>
+    <outline text="CovertAction Magazine" title="CovertAction Magazine" type="rss" xmlUrl="https://covertactionmagazine.com/feed/" htmlUrl="https://covertactionmagazine.com/"/>
+    <outline text="Fight Back! - News and Views from the People's Struggle" title="Fight Back! - News and Views from the People's Struggle" type="rss" xmlUrl="http://www.fightbacknews.org/feed.xml" htmlUrl="http://www.fightbacknews.org/"/>
+    <outline text="Liberation News" title="Liberation News" type="rss" xmlUrl="https://www.liberationnews.org/feed/" htmlUrl="https://www.liberationnews.org/"/>
+    <outline text="naked capitalism" title="naked capitalism" type="rss" xmlUrl="http://www.nakedcapitalism.com/feed" htmlUrl="http://www.nakedcapitalism.com/"/>
+    <outline text="Monthly Review" title="Monthly Review" type="rss" xmlUrl="http://monthlyreview.org/feed" htmlUrl="http://monthlyreview.org/"/>
+    <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    <outline text="E-International Relations" title="E-International Relations" type="rss" xmlUrl="http://www.e-ir.info/feed/" htmlUrl="http://www.e-ir.info/"/>
+    <outline text="JHIBlog" title="JHIBlog" type="rss" xmlUrl="https://jhiblog.org/feed/" htmlUrl="https://jhiblog.org"/>
+    <outline text="Workers World" title="Workers World" type="rss" xmlUrl="https://www.workers.org/feed/" htmlUrl="https://www.workers.org/"/>
+    <outline text="CounterPunch: Tells the Facts, Names the Names" title="CounterPunch: Tells the Facts, Names the Names" type="rss" xmlUrl="http://www.counterpunch.org/feed/" htmlUrl="http://www.counterpunch.org/"/>
+  </body>
+</opml>
